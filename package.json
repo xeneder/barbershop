@@ -1,0 +1,19 @@
+{
+  "name": "barbershop",
+  "version": "1.0.0",
+  "description": "Brodobrey Barbershop app",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Dmitry Zaitsev",
+  "license": "ISC",
+  "dependencies": {
+    "connect-ensure-login": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "lowdb": "^1.0.0",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
+}

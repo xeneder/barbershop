@@ -1,0 +1,2427 @@
+{
+  "timetables": [
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 15
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": true,
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": true,
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 16
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": true,
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 17
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": true,
+            "service": "1",
+            "name": "Тест",
+            "phone": "+7(000)000-00-00",
+            "email": "test@test.ru"
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": true,
+            "service": "4",
+            "name": "Тест2",
+            "phone": "+7(666)666-66-66",
+            "email": "email@test.ru"
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": true,
+            "service": "2",
+            "name": "Тест3",
+            "phone": "+7(003)311-42-56",
+            "email": "test3@testttt.ru"
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 18
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 19
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": true,
+            "service": "2",
+            "name": "Тестовое Имя",
+            "phone": "+7(111)111-11-11",
+            "email": "one@one.on"
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 20
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 21
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": true,
+            "service": "4",
+            "name": "Алексей",
+            "phone": "+7(123)456-78-90",
+            "email": "aleksey@email.com"
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 22
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 23
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": true,
+            "service": "1",
+            "name": "Тест2",
+            "phone": "+7(666)666-66-66",
+            "email": "email@test.ru"
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 24
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 25
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 19
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 20
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 21
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 22
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 23
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 24
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 25
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 12,
+        "day": 1
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 12,
+        "day": 2
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 12,
+        "day": 3
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 12,
+        "day": 4
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 12,
+        "day": 5
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 26
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 27
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 28
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 29
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 11,
+        "day": 30
+      },
+      "timeslots": [
+        {
+          "hours": 12,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 13,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 14,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 15,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 16,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 17,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        {
+          "hours": 18,
+          "minutes": 0,
+          "booking": {
+            "isBooked": false,
+            "service": "",
+            "name": "",
+            "phone": "",
+            "email": ""
+          }
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 0,
+      "username": "username",
+      "password": "password"
+    },
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "pass1"
+    },
+    {
+      "id": 2,
+      "username": "test",
+      "password": "test"
+    }
+  ],
+  "usercount": 3
+}
